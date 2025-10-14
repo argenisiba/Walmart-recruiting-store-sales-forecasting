@@ -9,7 +9,7 @@ Analyze Walmart's weekly sales to identify patterns, external factors affecting 
 
 R: Stores 20, 4 and 14 are the ones with the highest average and total amount of Weekly Sales.
 
- ![Sales per store](Visuals/sales_per_store.png)
+ ![Sales per store](Visuals/Sales_per_Store.png)
 
 ## 2. How do holiday weeks affect sales?
 
